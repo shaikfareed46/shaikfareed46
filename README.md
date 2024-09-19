@@ -80,7 +80,7 @@
 <!-- Hobbies Section -->
 <h3 align="left"><font size="+2" face="Verdana">Hobbies:</font></h3>
 <p align="left">
-  Traveling, Watching Football, Swimming
+  Traveling 🏔️, Watching Football ⚽, Swimming 🏊‍♂️
 </p>
 
 ---
