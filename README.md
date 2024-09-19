@@ -5,7 +5,7 @@
 <!-- Schedule a 1-on-1 Call Section -->
 <h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
 <p align="left">
-  <a href="https://topmate.io/fareed" target="_blank" rel="noreferrer"> Book a Call with me! </a>
+  <a href="https://topmate.io/shaik_fareed" target="_blank" rel="noreferrer"> Book a Call with me! </a>
 </p>
 
 <!-- GIF -->
